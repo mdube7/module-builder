@@ -1,22 +1,11 @@
 {
-  "files": {
-    "main.css": "/module-builder/static/css/main.480aaa0d.chunk.css",
-    "main.js": "/module-builder/static/js/main.5acbf811.chunk.js",
-    "main.js.map": "/module-builder/static/js/main.5acbf811.chunk.js.map",
-    "runtime~main.js": "/module-builder/static/js/runtime~main.55fa367a.js",
-    "runtime~main.js.map": "/module-builder/static/js/runtime~main.55fa367a.js.map",
-    "static/css/2.4f131100.chunk.css": "/module-builder/static/css/2.4f131100.chunk.css",
-    "static/js/2.e8873800.chunk.js": "/module-builder/static/js/2.e8873800.chunk.js",
-    "static/js/2.e8873800.chunk.js.map": "/module-builder/static/js/2.e8873800.chunk.js.map",
-    "static/js/3.a84f1a31.chunk.js": "/module-builder/static/js/3.a84f1a31.chunk.js",
-    "static/js/3.a84f1a31.chunk.js.map": "/module-builder/static/js/3.a84f1a31.chunk.js.map",
-    "index.html": "/module-builder/index.html",
-    "precache-manifest.3c41c0ef4af3f2b8f915d22c0c862567.js": "/module-builder/precache-manifest.3c41c0ef4af3f2b8f915d22c0c862567.js",
-    "service-worker.js": "/module-builder/service-worker.js",
-    "static/css/2.4f131100.chunk.css.map": "/module-builder/static/css/2.4f131100.chunk.css.map",
-    "static/css/main.480aaa0d.chunk.css.map": "/module-builder/static/css/main.480aaa0d.chunk.css.map",
-    "static/media/editor.min.css": "/module-builder/static/media/jsoneditor-icons.d961fdfa.svg",
-    "static/media/synthea-animated-logo.svg": "/module-builder/static/media/synthea-animated-logo.d15f277a.svg",
-    "static/media/synthea-logo.png": "/module-builder/static/media/synthea-logo.81979623.png"
-  }
+  "main.css": "static/css/main.c50de666.css",
+  "main.css.map": "static/css/main.c50de666.css.map",
+  "main.js": "static/js/main.c4939a0d.js",
+  "main.js.map": "static/js/main.c4939a0d.js.map",
+  "static/js/0.b0d39ac1.chunk.js": "static/js/0.b0d39ac1.chunk.js",
+  "static/js/0.b0d39ac1.chunk.js.map": "static/js/0.b0d39ac1.chunk.js.map",
+  "static\\media\\jsoneditor-icons.svg": "static/media/jsoneditor-icons.bfab7b16.svg",
+  "static\\media\\synthea-animated-logo.svg": "static/media/synthea-animated-logo.d15f277a.svg",
+  "static\\media\\synthea-logo.png": "static/media/synthea-logo.81979623.png"
 }
